@@ -1,9 +1,13 @@
 # Federated Algorithm of the Week
 
-***author: Jamie McQuire***
+***Author: Jamie McQuire***
 
 Code repository for my implementations of Fedrated Learning optimization algorithms in PySyft. 
 
-***Algorithms Complete***
+***Algorithms Working***
 
+* Federated Averaging (FedAvg) 
 * Federated Proximal (FedProx)
+* Federated Stochastic Variance Reduced Gradient (FSVRG)
+
+***Algorithms Complete***
